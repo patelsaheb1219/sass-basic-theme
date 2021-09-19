@@ -3994,22 +3994,22 @@ img {
   font-size: 3rem;
 }
 
-.d-n {
+.display-n {
   display: none;
 }
 
-.d-b {
+.display-b {
   display: block;
 }
 
-.d-f {
+.display-f {
   display: flex;
 }
 
-.d-i {
+.display-i {
   display: inline;
 }
 
-.d-i-b {
+.display-i-b {
   display: inline-block;
 }
