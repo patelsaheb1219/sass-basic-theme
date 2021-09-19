@@ -148,7 +148,7 @@ img {
   background-color: #1ac888;
 }
 
-.navbar .container, .navbar {
+ .navbar-primary .container, .navbar-primary {
   width: 100%;
   display: flex;
   align-items: center;
@@ -156,12 +156,15 @@ img {
   box-sizing: border-box;
 }
 
-.navbar {
+ .navbar-primary {
   padding: 0.75rem 1.5rem;
   box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
 }
-.navbar .site-title {
+ .navbar-primary .site-title {
   font-size: 1.5rem;
+}
+.navbar-primary {
+  background-color: indigo;
 }
 
 .p-0 {
